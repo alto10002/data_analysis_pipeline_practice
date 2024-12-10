@@ -80,7 +80,3 @@ clean-all : clean-dats \
 	clean-figs
 	rm -f report/count_report.html
 	rm -rf report/count_report_files
-	rm -f results/isles.dat
-	rm -f results/abyss.dat
-	rm -f results/last.dat
-	rm -f results/sierra.dat
